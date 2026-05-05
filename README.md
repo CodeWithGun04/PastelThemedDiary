@@ -17,7 +17,7 @@ a soft pastel diary with mood graph and real AI responses
 - vercel for hosting
 
 ## live demo
-[try it here](https://your-vercel-link.vercel.app)
+[try it here](https://pastel-themed-diary.vercel.app/)
 
 ## disclaimer
 the AI uses keyword detection — it's not perfect. if it misses something, that's on me, not you.
