@@ -1,6 +1,9 @@
 # PastelThemedDiary
 a soft pastel diary with mood graph and real AI responses
-* a soft place to write. no login. no tracking. just you and your words.
+* a soft place to write
+*  no login
+*  no tracking
+* just you and your words
 
 ## features
 - name it after yourself
