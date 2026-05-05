@@ -22,4 +22,4 @@ a soft pastel diary with mood graph and real AI responses
 ## disclaimer
 the AI uses keyword detection — it's not perfect. if it misses something, that's on me, not you.
 
-made with pastel and patience by Gun
+made with pastels and patience by Gun❤️
